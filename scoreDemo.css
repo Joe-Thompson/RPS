@@ -1,0 +1,58 @@
+#para {
+  font-family: 'Lilita One', cursive;
+  font-size: 15px;
+}
+.container {
+  padding-top: 20px;
+}
+.btn {
+    font-family: 'Lilita One', cursive;
+  }
+.winner {
+    color:  green;
+  }
+.loser {
+    color: red;
+  }
+.start {
+    color: lightblue;
+  }
+.container {
+    padding-bottom: 10px;
+}
+.jumbotron {
+  background-image: url("https://ichef.bbci.co.uk/news/660/media/images/74580000/jpg/_74580127_162317629(1).jpg");
+}
+.hover {
+  font-size: 30px;
+  color: red;
+}
+.form-control {
+  margin-right: 800px;
+  border: 1px solid black;
+}
+.actionBtn {
+  margin: 2px;
+}
+h2 {
+  font-size: 150px;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  color: #2f476d;
+}
+h1 {
+  font-size: 50px;
+  font-family: 'Lilita One', cursive;
+}
+p {
+  font-size: 30px;
+  font-family: 'Lilita One', cursive;
+}
+li {
+  font-family: 'Lilita One', cursive;
+  font-size: 20px;
+}
+h3 {
+  font-family: 'Lilita One', cursive;
+  font-size: 25px;
+}
